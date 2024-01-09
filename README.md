@@ -6,6 +6,6 @@
         </p>
     </div>
     <div>
-        <img src="https://example.com/your-image.jpg" alt="Your Image" width="300px">
+        <img src="https://drive.google.com/file/d/11BcmbMlHtR82z0UKly2_5GfBDtxTuHRG/view?usp=sharing" alt="Fetal Sample Image" width="300px">
     </div>
 </div>
